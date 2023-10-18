@@ -25,7 +25,7 @@ python -m pip install "selenium"
 
 ## Usage
 
-Edit `urls_to_check.txt`, specifying one URL on each line, e.g.
+Create or edit `urls_to_check.txt`, specifying one URL on each line, e.g.
 
 ```txt
 https://www.example.com/index1.html
