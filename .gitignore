@@ -1,0 +1,44 @@
+# Python-specific
+__pycache__/
+*.pyc
+
+# Selenium-specific
+geckodriver.log
+geckodriver.log.*
+
+# Webdriver-specific
+chromedriver.log
+chromedriver.log.*
+
+# reports
+report/
+reports/
+
+# virtual environment
+venv/
+env/
+Lib/
+Scripts/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# miscellaneous
+*.log
+*.swp
+.DS_Store
+
+# config and secret files
+config.ini
+secrets.json
+
+# downloads
+downloads/
+
+# logs
+logs/
+
+# outputs
+test-output/
+results.csv
